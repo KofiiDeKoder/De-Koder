@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kofi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kofii
 =============================================================================================================================
 
 Mr. Jack of All Trades, Collector of Stones
 --------------------------------------------------------------------------------------------
 
-I've been learning to code for a while(On and Off). I'm trying to get back at it.
+I've been learning to code for a while(On and Off). Experimentation keeps me burning.
 
 * 🌍  I'm based in Africa
 * 🧠  I'm currently learning Game Dev(For Godot previously Unity), CyberSecurity, and Automation
